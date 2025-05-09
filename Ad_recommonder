@@ -1,0 +1,19 @@
+# 📢 Personalized Ad Recommendation System
+
+A machine learning web application that recommends personalized ads to users based on age, interests, and browsing behavior.
+
+## 🔧 Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- Flask
+- Joblib
+
+## 🚀 Features
+- Accepts user data (age, interests, activity)
+- Recommends ads based on user profile
+- Uses a trained RandomForestClassifier model
+- Simple web interface with Flask
+
+## 🧠 Model
+Trained on synthetic data with labels indicating types of ads a user prefers.
